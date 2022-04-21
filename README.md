@@ -1,4 +1,4 @@
-# Project Name
+# Hello Microverse Project
 
 > This is the first microverse project.
 
