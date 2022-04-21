@@ -1,6 +1,6 @@
 # Project Name
 
-> Description the project.
+> This is the first microverse project.
 
 
 ## Built With
@@ -31,4 +31,7 @@ Feel free to check the [issues page](https://github.com/Ceemos96/Hello-Microvers
 # Show your support
 
 Give a ⭐️ if you like this project!
+
+# License
+This project is [MIT Licensed](https://github.com/Ceemos96/Hello-Microverse/blob/main/LICENSE)
 
